@@ -1,5 +1,13 @@
 # hardhat
 
+## 2.12.7
+
+### Patch Changes
+
+- e443b3667: Added an option in Hardhat Network to allow mining blocks with the same timestamp
+- 69546655e: Added support for sending batch requests through WebSocket to the Hardhat node (thanks @tenbits!)
+- 6bf1673bb: Added a config validation for the number of optimizer runs used (thanks @konarshankar07!)
+
 ## 2.12.6
 
 ### Patch Changes
